@@ -4,10 +4,12 @@
 <br>
 <br>
 Screenshots:
-![image](https://github.com/user-attachments/assets/c60ff9ad-717e-4650-9d4b-f7bd7949efe2)
+![image](https://github.com/user-attachments/assets/1717a9bf-1e8e-4e7a-9c49-5a716bcc4824)
+
 <br>
 <br>
-![image](https://github.com/user-attachments/assets/6f7de4a7-ed59-4b9d-bae3-b09adf693902)
+![image](https://github.com/user-attachments/assets/27715cae-932e-43ca-bd25-90ce2e0e75ee)
+
 
 Welcome to the **Gemini Chatbot** project! This project showcases the development of a responsive and interactive chatbot interface using **HTML**, **CSS**, and **JavaScript**. The chatbot leverages the Google Gemini API to provide dynamic responses based on user input, offering an engaging user experience.
 
