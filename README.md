@@ -1,6 +1,6 @@
 # Gemini Chatbot Frontend Development
 
-<a href="https://swapan-code.github.io/Gemini-Chatbot-Frontend-Project/">Live Link</a>
+<a href="https://swapan-code.github.io/Gemini-Chatbot-Frontend-Project/" target="_blank">Live Link</a>
 <br>
 <br>
 Screenshots:
