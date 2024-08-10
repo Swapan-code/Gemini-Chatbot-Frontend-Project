@@ -1,4 +1,4 @@
-# Gemini Chatbot UI Development
+# Gemini Chatbot Frontend Development
 
 Welcome to the **Gemini Chatbot** project! This project showcases the development of a responsive and interactive chatbot interface using **HTML**, **CSS**, and **JavaScript**. The chatbot leverages the Google Gemini API to provide dynamic responses based on user input, offering an engaging user experience.
 
@@ -22,12 +22,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/gemini-chatbot.git
+    git clone 
     ```
    
 2. **Open the project directory**:
     ```bash
-    cd gemini-chatbot
+    cd Gemini-Chatbot-Frontend-Project
     ```
 
 3. **Run the project**:
